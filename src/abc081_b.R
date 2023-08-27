@@ -1,4 +1,4 @@
-# ignore
+# ignore the first line
 readline()
 readline() |>
   str_split_1(" ") |>
